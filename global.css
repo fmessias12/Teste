@@ -1,0 +1,15 @@
+:root {
+    --primary: #30BA96;
+    --secondary: #30BA96;
+    /* --secondary-dark: #2EB069; */
+    --secondary-dark: #32A1A3;
+    --tertiary: #399b2c;
+    --text-light: #EEE;
+    --text-dark: #111;
+}
+
+body {
+    background-color: rgb(29, 28, 28);
+    margin: 0;
+    color: var(--text-light);
+}
